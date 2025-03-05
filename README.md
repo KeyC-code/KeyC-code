@@ -5,7 +5,7 @@
 
 <!-- Динамический текст -->
 <h1 align="center">
-  Привет 👋, Я [Твое Имя]
+  Привет 👋, Я KeyC
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -19,7 +19,7 @@
 ### 🛠️ Мой стек технологий:
 <!-- Интерактивные иконки -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,rust,python,docker,aws,git,github,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=python,docker,git,mysql,sqlite,github,linux,vscode" />
 </p>
 
 ---
