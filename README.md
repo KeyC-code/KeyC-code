@@ -19,17 +19,8 @@
 ### 🛠️ Мой стек технологий:
 <!-- Интерактивные иконки -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,git,mysql,sqlite,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,go,docker,git,mysql,sqlite,github,linux,vscode" />
 </p>
-
----
-
-### 📈 Моя статистика:
-<!-- Динамическая статистика из GitHub -->
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TWOH0&show_icons=true&theme=react&hide_border=true"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=TWOH0&theme=react&hide_border=true"/>
-</div>
 
 <!-- 3D-иконка с анимацией -->
 <div align="center">
@@ -38,13 +29,26 @@
 
 ---
 
-### 🔥 Последние проекты:
-<!-- Автоматическое обновление через GitHub Actions -->
-<!-- UPDATE_START -->
-- [🎮 GameBoy emulator in Rust](https://github.com/...) - Эмулятор GameBoy Color
-- [🤖 AI-powered Discord bot](https://github.com/...) - Бот с GPT-4 и stable diffusion
-- [🔐 CTF writeups](https://github.com/...) - Решения задач с соревнований
-<!-- UPDATE_END -->
+### 🚀 Мои проекты
+
+#### 🤖 Telegram Bots
+- **@AirTravelBot** (2022) - Умный помощник для поиска авиабилетов  
+  ![Progress](https://geps.dev/progress/95?dangerColor=800000&warningColor=ff9900&successColor=006600)
+- **PriemkaManager** (2024) - Автоматизация приемки товаров с фотоотчетом  
+  `Python` `Aiogram` `PostgreSQL`
+- **ZayavkaFlow** (2024) - Система обработки заявок с интеграцией в 1С  
+  [![Repo](https://img.shields.io/badge/REPO-blue?style=flat-square)](https://github.com/...)
+
+#### 🎮 Игры & Приложения
+- **ChessMasterBot** (2024) - Шахматный движок с ИИ-соперником  
+  `Python` `Stockfish` `ChessAPI`
+- **LuckyMeter** (2023) - Мобильное приложение для рандомизации выбора  
+  [![Download](https://img.shields.io/badge/APK-DOWNLOAD-brightgreen)](https://...)
+
+#### 🛠️ Утилиты
+- **FreeTP-Discord** (2024) - Система телепортации для игровых серверов  
+  ```fix
+  В разработке: v2.1.0
 
 ---
 
@@ -66,10 +70,10 @@
 ### 📫 Как связаться:
 <!-- Интерактивные кнопки -->
 <p align="center">
-  <a href="https://t.me/yournickname">
+  <a href="https://t.me/Keey_C">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:alexkov1956@email.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
   </a>
 </p>
