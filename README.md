@@ -11,7 +11,7 @@
 
 <!-- Кастомная анимация статуса -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Full-stack+Alchemist;Open+Source+Enthusiast;CTF+Player;Coffee+Overdose" alt="Статус" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Full-stack+Alchemist;Open+Source+Enthusiast;Coffee+Overdose" alt="Статус" />
 </div>
 
 ---
@@ -21,11 +21,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,go,docker,git,mysql,sqlite,github,linux,vscode" />
 </p>
-
-<!-- 3D-иконка с анимацией -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TWOH0/TWOH0/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
 
 ---
 
