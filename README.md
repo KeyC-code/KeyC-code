@@ -27,10 +27,8 @@
 ### 🔥 Последние проекты:
 <!-- Автоматическое обновление через GitHub Actions -->
 <!-- UPDATE_START -->
-- [🛍️ Poizon Marketplace Helper](https://github.com/...) - Автоматизация работы с платформой Poizon
-- [📦 Priemka Manager](https://github.com/...) - Система учёта товаров с интеграцией 1С
-- [🔍 Universal Search Bot](https://github.com/...) - Поисковик по документам и базам данных
-- [🤖 Avito Parser Assistant](https://github.com/...) - Мониторинг объявлений с автоматизированным анализом
+- [🎮 Dota2 Draft Sage](https://github.com/KeyC-code/Dota2DraftSageBot) — персональный стратег для драфта в Dota 2
+- [🧠 EducationalBot](https://github.com/KeyC-code/EducationalBot) -  Telegram-бот для обучения
 <!-- UPDATE_END -->
 
 
