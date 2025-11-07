@@ -19,7 +19,7 @@
 ### 🛠️ Мой стек технологий:
 <!-- Интерактивные иконки -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,docker,git,mysql,sqlite,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,go,docker,git,gitlab,postgresql,mysql,sqlite,github,linux,vscode" />
 </p>
 
 ---
