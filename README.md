@@ -29,6 +29,7 @@
 <!-- UPDATE_START -->
 - [🎮 Dota2 Draft Sage](https://github.com/KeyC-code/Dota2DraftSageBot) — персональный стратег для драфта в Dota 2
 - [🧠 EducationalBot](https://github.com/KeyC-code/EducationalBot) -  Telegram-бот для обучения
+- [🔎 CbGoTest](https://github.com/KeyC-code/cbgotest) - Тест сервис для цб
 <!-- UPDATE_END -->
 
 
